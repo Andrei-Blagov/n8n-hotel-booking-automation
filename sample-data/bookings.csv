@@ -1,0 +1,5 @@
+booking_id,client_name,email,hotel_name,room_type,date_from,date_to,room_id,price_per_night,nights,total_price,status,payment_status,created_at
+B-DEMO-001,Ivan,ivan@example.com,Hotel Vega,standard,2026-09-13,2026-09-16,R-101,4500,3,13500,reserved,waiting,2026-09-12T09:35:14.000Z
+B-DEMO-002,Petr,petr@example.com,Hotel Vega,standard,2026-09-13,2026-09-16,R-102,4500,3,13500,reserved,waiting,2026-09-12T09:38:40.000Z
+B-DEMO-003,Sergey,sergey@example.com,Hotel Vega,standard,2026-09-14,2026-09-15,,,,1,,not_available,waiting,2026-09-12T09:43:00.000Z
+B-DEMO-004,Anna,anna@example.com,Hotel Vega,standard,2026-09-16,2026-09-18,R-101,4500,2,9000,reserved,waiting,2026-09-12T09:46:47.000Z
