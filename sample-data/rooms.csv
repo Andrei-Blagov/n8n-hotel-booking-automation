@@ -1,0 +1,6 @@
+room_id,hotel_name,room_type,date_from,date_to,status,price
+R-101,Hotel Vega,standard,,,free,4500
+R-102,Hotel Vega,standard,,,free,4500
+R-201,Hotel Vega,lux,,,free,8500
+R-301,Hotel Cosmos,standard,,,free,5000
+R-302,Hotel Cosmos,lux,,,free,9000
